@@ -35,7 +35,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 O projeto é um site desktop de comida japonesa.
 Esse é um dos projetos do evento Jornada do Zero à Programação, um dos conteúdos disponíveis para alunos da Rocketseat.
 
-- [Acesse o projeto finalizado, online](https://andreskull2.github.io/roteiro-viagem/)
+- [Acesse o projeto finalizado, online](https://andreskull2.github.io/japanese-food/)
 
 - [Assistir aulas](https://lp.rocketseat.com.br/devlinks/inscricao?utm_source=github&utm_medium=descricao&utm_campaign=capture-devlinks&utm_term=organic&utm_content=descricao-github-mayk-brito)
 
